@@ -12,7 +12,7 @@ fun main(args: Array<String>) {
     будет через булеву логику опр. является ли человек подростком */
 
     // task 3
-    val reader = "Alina and Sasha"
+    val reader = "ВАЛЯ"
     val author = "Richard Lucas"
     val authorIsReader = reader == author
     /* Использование равенства строк */
